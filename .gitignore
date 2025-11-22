@@ -1,0 +1,47 @@
+# Arduino
+*.hex
+*.eep
+*.elf
+*.map
+*.sym
+*.lss
+*.eeprom
+*.bin
+build/
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+*.autosave
+
+# Data files
+*.csv
+*.log
+*.dat
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
