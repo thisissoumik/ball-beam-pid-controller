@@ -500,8 +500,7 @@ in the Software without restriction...
 For questions, suggestions, or collaboration opportunities:
 
 - **GitHub**: [@soumik-saha](https://github.com/soumik-saha)  
-- **Email**: [2006011@eee.buet.ac.bd
-- ]
+- **Email**: [2006011@eee.buet.ac.bd]
 - **Project Link**: [https://github.com/soumik-saha/ball-beam-pid-controller](https://github.com/soumik-saha/ball-beam-pid-controller)
 
 ---
