@@ -303,29 +303,16 @@ ball-beam-pid-controller/
 │   ├── ball_beam_controller.ino    # Main Arduino code
 │   └── README.md                    # Arduino-specific documentation
 ├── matlab/
-│   ├── simulation/
-│   │   ├── simulink_model.slx      # Simulink model
-│   │   └── system_parameters.m     # System parameters
-│   ├── analysis/
-│   │   ├── data_analysis.m         # Data analysis scripts
-│   │   ├── step_response.m         # Step response analysis
-│   │   └── transfer_function.m     # Transfer function derivation
-│   └── visualization/
-│       └── plot_response.m         # Plotting scripts
+│   ├── system_analysis.m            # Complete system analysis
+│   └── plot_experimental_data.m     # Data visualization script
 ├── docs/
-│   ├── project_report.pdf          # Full technical report
-│   ├── circuit_diagram.png         # Circuit schematic
-│   ├── system_model.png            # Block diagram
-│   └── assembly_guide.md           # Hardware assembly instructions
-├── images/
-│   ├── system_overview.jpg         # Photos of physical system
-│   ├── response_plots/             # Performance graphs
-│   └── assembly/                   # Assembly step photos
-├── data/
-│   └── sample_output.csv           # Example data logs
-├── .gitignore
-├── LICENSE
-└── README.md                       # This file
+│   └── Project_Report.pdf           # Full technical report (38 pages)
+├── .gitignore                       # Git ignore rules
+├── LICENSE                          # MIT License
+├── README.md                        # This file
+├── CONTRIBUTING.md                  # Contribution guidelines
+├── QUICKSTART.md                    # Quick start guide
+└── CHANGELOG.md                     # Version history
 ```
 
 ## 📊 Performance Metrics
